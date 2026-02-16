@@ -1,501 +1,501 @@
 product_id,product_name,category,brand,cost,price
-1,Produto_1,Moda,Cirino,359.76,587.32
-2,Produto_2,Moda,Marques - ME,495.19,832.63
-3,Produto_3,Eletronicos,da Rocha Pinto - EI,216.01,315.24
-4,Produto_4,Informatica,Fogaça,492.23,952.41
-5,Produto_5,Moda,da Cruz,88.99,115.41
-6,Produto_6,Esporte,Caldeira e Filhos,487.46,677.51
-7,Produto_7,Casa,Cavalcante,469.07,860.22
-8,Produto_8,Informatica,Silveira S/A,71.87,87.32
-9,Produto_9,Casa,Costa - EI,213.48,309.0
-10,Produto_10,Moda,da Paz,111.24,209.54
-11,Produto_11,Esporte,Brito e Filhos,248.46,474.61
-12,Produto_12,Moda,Sousa,12.38,23.3
-13,Produto_13,Moda,Moraes,45.11,65.25
-14,Produto_14,Eletronicos,Porto S/A,303.49,397.7
-15,Produto_15,Casa,Guerra Rios - ME,123.69,237.49
-16,Produto_16,Esporte,Lima,255.44,331.8
-17,Produto_17,Esporte,Silveira Macedo Ltda.,288.0,532.83
-18,Produto_18,Informatica,da Costa,243.28,311.96
-19,Produto_19,Casa,Mendonça,441.77,603.58
-20,Produto_20,Moda,Nascimento,204.72,315.59
-21,Produto_21,Moda,Campos Macedo - EI,486.0,818.79
-22,Produto_22,Eletronicos,Nascimento,163.42,304.2
-23,Produto_23,Esporte,Rios - EI,26.25,44.73
-24,Produto_24,Esporte,Barros Caldeira e Filhos,281.49,360.92
-25,Produto_25,Casa,Siqueira,372.43,704.21
-26,Produto_26,Esporte,Pires,136.34,198.99
-27,Produto_27,Moda,Souza Viana - EI,344.94,488.45
-28,Produto_28,Informatica,Costa Nogueira - EI,254.62,461.91
-29,Produto_29,Esporte,Ferreira S/A,344.86,452.31
-30,Produto_30,Esporte,da Rosa Ltda.,176.88,295.13
-31,Produto_31,Moda,da Paz Nascimento Ltda.,84.82,102.3
-32,Produto_32,Moda,Cunha Cassiano S.A.,466.72,893.82
-33,Produto_33,Esporte,Dias,113.43,208.85
-34,Produto_34,Casa,Rios Machado S.A.,212.91,366.9
-35,Produto_35,Casa,Pires,339.28,534.73
-36,Produto_36,Esporte,Peixoto S/A,45.14,64.18
-37,Produto_37,Eletronicos,Jesus e Filhos,189.47,272.96
-38,Produto_38,Esporte,Nunes,139.03,262.02
-39,Produto_39,Esporte,Castro Freitas e Filhos,425.42,658.24
-40,Produto_40,Esporte,Campos Araújo e Filhos,483.4,966.31
-41,Produto_41,Casa,Ferreira,431.02,860.29
-42,Produto_42,Moda,Cunha Cardoso S/A,395.82,506.91
-43,Produto_43,Esporte,Vargas Santos - ME,297.8,578.72
-44,Produto_44,Casa,Vasconcelos Cardoso - ME,255.47,367.53
-45,Produto_45,Esporte,Cunha e Filhos,483.47,815.13
-46,Produto_46,Informatica,da Cunha,75.62,104.47
-47,Produto_47,Moda,Guerra,281.33,485.34
-48,Produto_48,Esporte,Nogueira Montenegro Ltda.,407.58,537.52
-49,Produto_49,Moda,Albuquerque,498.38,820.97
-50,Produto_50,Casa,da Costa,308.7,594.99
-51,Produto_51,Informatica,Dias S/A,386.42,498.18
-52,Produto_52,Eletronicos,Sales Abreu Ltda.,347.62,682.86
-53,Produto_53,Esporte,Gomes S.A.,160.31,211.83
-54,Produto_54,Esporte,Nogueira Pires S/A,99.56,136.48
-55,Produto_55,Moda,Pires,416.13,708.78
-56,Produto_56,Casa,Fonseca,275.84,475.23
-57,Produto_57,Casa,Costela Viana e Filhos,105.17,137.33
-58,Produto_58,Casa,Monteiro Costela - ME,90.41,164.8
-59,Produto_59,Eletronicos,Nascimento,35.83,46.82
-60,Produto_60,Informatica,Pastor S/A,141.68,253.72
-61,Produto_61,Eletronicos,Fernandes,427.44,536.96
-62,Produto_62,Esporte,Moreira,226.39,279.45
-63,Produto_63,Eletronicos,Costela Ltda.,89.83,170.29
-64,Produto_64,Eletronicos,Leão S/A,288.29,498.82
-65,Produto_65,Moda,Vargas S.A.,477.41,617.0
-66,Produto_66,Casa,Vargas,419.77,753.12
-67,Produto_67,Eletronicos,Sousa Aparecida S.A.,306.46,410.17
-68,Produto_68,Casa,Garcia,65.2,129.66
-69,Produto_69,Moda,Andrade Ltda.,337.73,499.23
-70,Produto_70,Esporte,Abreu Marques Ltda.,247.29,414.3
-71,Produto_71,Casa,Nascimento,380.42,721.6
-72,Produto_72,Eletronicos,Rios e Filhos,60.32,117.41
-73,Produto_73,Moda,Sá,82.65,112.92
-74,Produto_74,Informatica,Pinto Pires - EI,470.31,854.51
-75,Produto_75,Informatica,Cassiano Ltda.,272.56,345.7
-76,Produto_76,Moda,Sampaio e Filhos,32.39,59.79
-77,Produto_77,Eletronicos,Sales Ltda.,353.0,454.07
-78,Produto_78,Eletronicos,Montenegro - EI,59.66,78.37
-79,Produto_79,Casa,Silveira - EI,20.92,34.07
-80,Produto_80,Moda,Pimenta,166.34,269.29
-81,Produto_81,Eletronicos,Fonseca Mendes - EI,428.95,782.07
-82,Produto_82,Esporte,Marques,193.5,308.96
-83,Produto_83,Esporte,Novaes S.A.,66.3,119.03
-84,Produto_84,Informatica,Andrade,101.21,124.79
-85,Produto_85,Casa,Fonseca,287.2,573.68
-86,Produto_86,Informatica,Leão e Filhos,188.55,307.62
-87,Produto_87,Informatica,Barros,64.51,125.6
-88,Produto_88,Informatica,da Mata Barros Ltda.,376.39,733.1
-89,Produto_89,Informatica,da Cunha,421.75,720.34
-90,Produto_90,Esporte,Rezende,411.54,622.76
-91,Produto_91,Moda,Machado,188.65,278.35
-92,Produto_92,Esporte,Rocha Cassiano S.A.,350.88,695.0
-93,Produto_93,Casa,Cunha Guerra - EI,303.59,388.55
-94,Produto_94,Casa,da Luz,269.99,484.08
-95,Produto_95,Eletronicos,Pacheco,151.9,238.12
-96,Produto_96,Moda,Araújo,383.92,516.24
-97,Produto_97,Informatica,da Rocha,165.66,242.87
-98,Produto_98,Casa,Porto,443.59,851.63
-99,Produto_99,Eletronicos,Macedo,429.75,741.9
-100,Produto_100,Moda,Santos S.A.,489.05,846.46
-101,Produto_101,Moda,Fogaça Pastor e Filhos,243.47,457.88
-102,Produto_102,Eletronicos,Barbosa e Filhos,440.17,568.31
-103,Produto_103,Casa,da Costa Fonseca S/A,264.53,414.74
-104,Produto_104,Moda,Sá,466.9,613.25
-105,Produto_105,Eletronicos,Andrade,166.04,307.62
-106,Produto_106,Esporte,Gomes,164.41,207.09
-107,Produto_107,Informatica,Freitas,22.64,33.88
-108,Produto_108,Moda,Pacheco,355.41,661.32
-109,Produto_109,Casa,Gomes S/A,177.69,214.68
-110,Produto_110,Esporte,Pastor,378.36,569.14
-111,Produto_111,Casa,das Neves,70.88,102.06
-112,Produto_112,Informatica,da Mata Cavalcanti e Filhos,95.49,121.37
-113,Produto_113,Casa,Nunes Ltda.,482.46,934.61
-114,Produto_114,Moda,Campos,111.15,180.54
-115,Produto_115,Moda,Moura,434.23,794.24
-116,Produto_116,Esporte,Carvalho Araújo Ltda.,263.24,451.91
-117,Produto_117,Casa,da Luz,408.6,807.72
-118,Produto_118,Casa,Araújo,417.9,586.55
-119,Produto_119,Moda,Sampaio,174.96,218.08
-120,Produto_120,Casa,Carvalho S/A,58.6,78.1
-121,Produto_121,Informatica,Pires,371.95,691.63
-122,Produto_122,Casa,Andrade,324.51,476.22
-123,Produto_123,Informatica,Albuquerque,198.58,381.07
-124,Produto_124,Esporte,Brito,11.92,20.03
-125,Produto_125,Casa,Montenegro,138.25,206.63
-126,Produto_126,Casa,Farias,464.58,700.34
-127,Produto_127,Casa,Sales S.A.,17.61,32.56
-128,Produto_128,Casa,Mendonça,148.21,275.93
-129,Produto_129,Informatica,Pimenta,416.33,793.38
-130,Produto_130,Moda,Casa Grande S/A,273.94,526.3
-131,Produto_131,Eletronicos,Andrade e Filhos,88.88,146.31
-132,Produto_132,Casa,Leão,373.62,645.78
-133,Produto_133,Casa,Guerra - EI,237.16,392.77
-134,Produto_134,Informatica,Pires,429.91,693.96
-135,Produto_135,Eletronicos,Macedo,128.49,174.47
-136,Produto_136,Moda,Azevedo S/A,303.05,460.46
-137,Produto_137,Esporte,Leão - ME,205.01,267.83
-138,Produto_138,Eletronicos,Araújo,286.53,349.55
-139,Produto_139,Informatica,Moraes da Rosa Ltda.,310.82,449.87
-140,Produto_140,Eletronicos,da Mota,491.0,624.57
-141,Produto_141,Moda,Melo,471.31,868.13
-142,Produto_142,Esporte,Cirino Gonçalves Ltda.,232.04,412.68
-143,Produto_143,Esporte,da Mata,233.39,335.66
-144,Produto_144,Esporte,Novaes,302.24,420.02
-145,Produto_145,Esporte,Moreira,223.49,309.59
-146,Produto_146,Informatica,Abreu,357.39,530.4
-147,Produto_147,Esporte,Jesus Costa Ltda.,299.7,400.33
-148,Produto_148,Esporte,Barbosa,166.76,311.04
-149,Produto_149,Moda,Machado,210.02,385.24
-150,Produto_150,Moda,Duarte - EI,82.44,155.64
-151,Produto_151,Casa,Pimenta Farias S.A.,76.66,149.57
-152,Produto_152,Moda,Vasconcelos Ltda.,283.73,557.2
-153,Produto_153,Esporte,Pereira,419.89,638.05
-154,Produto_154,Informatica,Albuquerque,484.07,646.5
-155,Produto_155,Eletronicos,Pastor - ME,456.28,789.02
-156,Produto_156,Casa,Macedo Nogueira S/A,419.23,783.24
-157,Produto_157,Casa,Barros Fernandes - ME,472.62,623.12
-158,Produto_158,Informatica,Câmara e Filhos,26.51,48.76
-159,Produto_159,Esporte,Porto,340.93,520.29
-160,Produto_160,Informatica,Guerra Souza - EI,26.89,48.09
-161,Produto_161,Eletronicos,Cardoso S/A,406.5,723.77
-162,Produto_162,Moda,Barros Araújo Ltda.,294.87,448.75
-163,Produto_163,Esporte,Cassiano,211.57,303.44
-164,Produto_164,Informatica,Cavalcanti Alves - ME,375.09,652.26
-165,Produto_165,Eletronicos,Cirino,449.09,887.91
-166,Produto_166,Informatica,Correia - EI,297.93,553.87
-167,Produto_167,Eletronicos,Oliveira,470.09,804.18
-168,Produto_168,Casa,Vasconcelos,486.93,691.72
-169,Produto_169,Casa,Souza Rocha S.A.,398.63,490.57
-170,Produto_170,Casa,Freitas,227.9,281.88
-171,Produto_171,Eletronicos,Cassiano - EI,156.28,277.26
-172,Produto_172,Esporte,Nogueira,406.76,515.09
-173,Produto_173,Esporte,Sampaio,153.16,253.93
-174,Produto_174,Moda,Oliveira - ME,25.06,42.2
-175,Produto_175,Eletronicos,Fogaça,384.58,754.83
-176,Produto_176,Informatica,Siqueira Viana e Filhos,415.52,509.27
-177,Produto_177,Esporte,Albuquerque,198.15,391.67
-178,Produto_178,Informatica,das Neves Alves S/A,59.21,104.31
-179,Produto_179,Casa,Lopes,319.51,621.41
-180,Produto_180,Esporte,Azevedo S/A,380.91,676.6
-181,Produto_181,Moda,Novaes,101.55,144.02
-182,Produto_182,Esporte,da Rosa,416.96,584.56
-183,Produto_183,Casa,Montenegro S/A,455.96,669.13
-184,Produto_184,Esporte,Marques S/A,177.51,221.75
-185,Produto_185,Moda,Santos Barbosa S/A,492.27,643.76
-186,Produto_186,Casa,Jesus - EI,414.71,827.7
-187,Produto_187,Casa,Nogueira,44.56,84.93
-188,Produto_188,Casa,Barbosa,325.17,529.81
-189,Produto_189,Casa,Gomes,436.34,858.84
-190,Produto_190,Eletronicos,da Rosa,392.38,727.67
-191,Produto_191,Informatica,Campos,178.93,229.36
-192,Produto_192,Informatica,Almeida,251.71,466.88
-193,Produto_193,Casa,Souza Costa S.A.,410.06,714.68
-194,Produto_194,Informatica,Jesus,389.32,651.1
-195,Produto_195,Moda,Ribeiro,373.81,463.79
-196,Produto_196,Eletronicos,Mendes,442.04,572.19
-197,Produto_197,Esporte,Porto,450.62,749.66
-198,Produto_198,Moda,Ferreira,383.89,645.69
-199,Produto_199,Esporte,Costela Aparecida Ltda.,384.5,529.68
-200,Produto_200,Informatica,Fonseca,382.7,750.13
-201,Produto_201,Esporte,Casa Grande Campos - ME,385.31,499.79
-202,Produto_202,Casa,Cirino Ltda.,378.62,546.04
-203,Produto_203,Casa,Cavalcanti,147.29,237.53
-204,Produto_204,Informatica,Rodrigues,496.51,717.37
-205,Produto_205,Eletronicos,Rocha - ME,208.76,288.08
-206,Produto_206,Eletronicos,Câmara,30.89,56.24
-207,Produto_207,Moda,Campos Santos - ME,44.92,57.67
-208,Produto_208,Informatica,Rios e Filhos,112.51,186.53
-209,Produto_209,Informatica,Rezende Ltda.,482.87,939.75
-210,Produto_210,Informatica,Santos Rodrigues - EI,453.82,730.59
-211,Produto_211,Informatica,Nogueira Camargo - EI,213.62,402.33
-212,Produto_212,Esporte,Brito Abreu - ME,65.49,106.57
-213,Produto_213,Casa,Freitas,311.51,462.55
-214,Produto_214,Informatica,Mendes - ME,390.65,524.91
-215,Produto_215,Casa,da Mota,119.49,224.83
-216,Produto_216,Esporte,Borges S/A,426.47,693.62
-217,Produto_217,Moda,Duarte,104.42,130.11
-218,Produto_218,Eletronicos,Andrade,260.29,516.86
-219,Produto_219,Casa,Farias,366.85,486.21
-220,Produto_220,Esporte,Marques,310.0,612.0
-221,Produto_221,Informatica,Moura,77.93,100.44
-222,Produto_222,Esporte,Costa,192.86,374.18
-223,Produto_223,Casa,Santos,390.93,672.63
-224,Produto_224,Eletronicos,Teixeira Costela S.A.,104.13,197.02
-225,Produto_225,Informatica,Cavalcanti,137.55,177.39
-226,Produto_226,Informatica,Farias,377.15,465.61
-227,Produto_227,Moda,Moreira,351.65,427.61
-228,Produto_228,Casa,Pinto,181.75,237.99
-229,Produto_229,Casa,Macedo Freitas Ltda.,196.13,252.38
-230,Produto_230,Moda,Martins,305.1,602.39
-231,Produto_231,Casa,Melo das Neves Ltda.,228.8,319.88
-232,Produto_232,Moda,Farias Pimenta e Filhos,262.83,436.64
-233,Produto_233,Moda,Brito,185.46,239.16
-234,Produto_234,Casa,Campos,373.23,521.2
-235,Produto_235,Casa,da Cunha,171.09,318.12
-236,Produto_236,Eletronicos,Silva Aparecida S.A.,255.55,458.59
-237,Produto_237,Eletronicos,Rios e Filhos,240.47,339.49
-238,Produto_238,Informatica,Correia e Filhos,34.89,58.98
-239,Produto_239,Casa,Castro e Filhos,241.15,373.83
-240,Produto_240,Eletronicos,Nunes Garcia - EI,185.12,277.65
-241,Produto_241,Casa,da Paz Ltda.,165.57,222.11
-242,Produto_242,Eletronicos,Ferreira,36.8,54.7
-243,Produto_243,Moda,Silva Aragão - EI,453.35,672.65
-244,Produto_244,Moda,Dias S.A.,48.2,86.56
-245,Produto_245,Moda,Costela,82.22,112.72
-246,Produto_246,Eletronicos,Fogaça,326.89,513.8
-247,Produto_247,Informatica,Azevedo,145.99,185.46
-248,Produto_248,Casa,Marques,377.76,579.15
-249,Produto_249,Informatica,da Luz,43.03,72.75
-250,Produto_250,Informatica,Abreu,86.43,130.23
-251,Produto_251,Casa,Machado,470.68,925.97
-252,Produto_252,Moda,Albuquerque,88.28,147.15
-253,Produto_253,Casa,Pereira Moura Ltda.,325.14,609.65
-254,Produto_254,Casa,Pires,43.32,65.59
-255,Produto_255,Esporte,Siqueira e Filhos,359.29,581.2
-256,Produto_256,Eletronicos,Rocha Costa - EI,78.52,133.08
-257,Produto_257,Esporte,Leão e Filhos,23.48,38.76
-258,Produto_258,Eletronicos,Pinto - EI,375.71,571.09
-259,Produto_259,Informatica,Oliveira,348.09,558.33
-260,Produto_260,Esporte,Carvalho,322.41,577.58
-261,Produto_261,Informatica,Pacheco,488.49,722.31
-262,Produto_262,Eletronicos,Garcia Lima - EI,274.08,399.54
-263,Produto_263,Casa,Jesus S/A,464.24,657.58
-264,Produto_264,Moda,Mendonça,39.59,78.61
-265,Produto_265,Casa,da Cruz Costela Ltda.,310.0,497.04
-266,Produto_266,Informatica,Almeida,224.13,311.34
-267,Produto_267,Esporte,Porto,68.14,115.46
-268,Produto_268,Moda,da Rosa,320.13,537.78
-269,Produto_269,Eletronicos,Rodrigues,211.83,307.52
-270,Produto_270,Moda,Pereira,247.97,452.31
-271,Produto_271,Esporte,Pacheco Fonseca S/A,410.54,561.31
-272,Produto_272,Esporte,Pereira,12.66,15.28
-273,Produto_273,Eletronicos,Cavalcanti Costa S/A,274.65,411.4
-274,Produto_274,Casa,da Mata,79.59,102.02
-275,Produto_275,Esporte,Souza e Filhos,379.47,587.19
-276,Produto_276,Casa,Ramos Nogueira S.A.,334.75,433.57
-277,Produto_277,Esporte,Caldeira,80.16,118.18
-278,Produto_278,Informatica,Silva,173.98,295.85
-279,Produto_279,Esporte,Andrade S/A,47.51,81.11
-280,Produto_280,Informatica,Brito,44.35,72.29
-281,Produto_281,Esporte,Duarte,47.3,60.43
-282,Produto_282,Moda,Machado Ribeiro S/A,447.38,573.48
-283,Produto_283,Eletronicos,Dias S.A.,280.51,451.85
-284,Produto_284,Casa,Porto,138.07,220.26
-285,Produto_285,Casa,Rodrigues S.A.,376.69,499.56
-286,Produto_286,Casa,Martins - EI,86.74,170.07
-287,Produto_287,Eletronicos,Cirino - EI,357.95,611.3
-288,Produto_288,Moda,Barbosa Ramos Ltda.,89.44,130.79
-289,Produto_289,Moda,Carvalho,128.27,256.47
-290,Produto_290,Esporte,Machado,245.65,440.18
-291,Produto_291,Informatica,Rocha S.A.,100.68,127.17
-292,Produto_292,Eletronicos,Mendes - EI,11.0,13.9
-293,Produto_293,Eletronicos,Pires,153.45,216.42
-294,Produto_294,Casa,Cavalcanti da Costa - ME,205.61,337.96
-295,Produto_295,Casa,Rocha Aparecida Ltda.,63.78,125.41
-296,Produto_296,Esporte,Rodrigues Leão e Filhos,106.75,153.93
-297,Produto_297,Esporte,Correia,271.21,448.63
-298,Produto_298,Casa,Ferreira Gonçalves - ME,272.83,409.03
-299,Produto_299,Esporte,Novais S.A.,16.25,27.11
-300,Produto_300,Eletronicos,Lima Cavalcante e Filhos,379.2,559.52
-301,Produto_301,Informatica,Macedo Ltda.,188.84,323.97
-302,Produto_302,Informatica,Vieira Rios - ME,50.95,86.02
-303,Produto_303,Esporte,Rocha,375.64,548.05
-304,Produto_304,Informatica,Cavalcanti S.A.,155.35,285.42
-305,Produto_305,Esporte,Abreu,494.43,765.03
-306,Produto_306,Informatica,Siqueira,65.56,95.12
-307,Produto_307,Moda,Lima Cavalcante Ltda.,364.0,618.54
-308,Produto_308,Eletronicos,da Cunha,231.87,324.8
-309,Produto_309,Casa,Garcia S/A,99.92,126.6
-310,Produto_310,Casa,Mendonça - EI,450.1,804.68
-311,Produto_311,Informatica,Macedo Ltda.,265.48,440.34
-312,Produto_312,Moda,Monteiro Borges Ltda.,12.8,18.67
-313,Produto_313,Casa,Caldeira,494.19,851.53
-314,Produto_314,Eletronicos,Brito Rodrigues Ltda.,422.33,764.57
-315,Produto_315,Moda,da Mata,61.95,89.27
-316,Produto_316,Esporte,Pereira Cavalcanti - ME,186.84,316.17
-317,Produto_317,Casa,Leão Guerra - ME,404.57,612.77
-318,Produto_318,Moda,Sales,453.19,548.91
-319,Produto_319,Moda,Pacheco,158.19,225.35
-320,Produto_320,Eletronicos,Santos da Cunha S/A,482.47,662.19
-321,Produto_321,Eletronicos,Borges,282.62,521.64
-322,Produto_322,Eletronicos,Dias,101.29,144.34
-323,Produto_323,Informatica,Lopes Azevedo S/A,350.72,521.01
-324,Produto_324,Esporte,Cassiano Ltda.,379.62,701.43
-325,Produto_325,Moda,Montenegro da Rosa - ME,217.87,308.13
-326,Produto_326,Esporte,da Rocha,184.88,237.13
-327,Produto_327,Esporte,Lopes - EI,436.0,612.8
-328,Produto_328,Eletronicos,Novaes,149.92,257.43
-329,Produto_329,Informatica,Jesus,452.74,635.12
-330,Produto_330,Informatica,Barbosa,216.42,390.54
-331,Produto_331,Informatica,Rios,461.08,907.9
-332,Produto_332,Casa,Ribeiro - EI,462.85,789.09
-333,Produto_333,Informatica,Souza e Filhos,233.05,345.91
-334,Produto_334,Casa,da Rocha,393.47,780.45
-335,Produto_335,Esporte,Pereira - EI,204.32,392.27
-336,Produto_336,Casa,Borges,401.98,752.44
-337,Produto_337,Informatica,Fogaça,444.53,675.09
-338,Produto_338,Eletronicos,Viana Duarte S.A.,413.86,524.53
-339,Produto_339,Informatica,das Neves e Filhos,310.23,574.22
-340,Produto_340,Eletronicos,das Neves,254.25,352.37
-341,Produto_341,Eletronicos,Pacheco,388.91,749.99
-342,Produto_342,Eletronicos,Borges - EI,448.25,624.51
-343,Produto_343,Casa,da Conceição,38.38,50.38
-344,Produto_344,Informatica,Gomes Cavalcante - EI,463.35,642.19
-345,Produto_345,Moda,Costela,342.21,641.7
-346,Produto_346,Casa,Rezende,104.75,201.16
-347,Produto_347,Eletronicos,Mendonça,51.81,80.28
-348,Produto_348,Esporte,Albuquerque,395.68,746.47
-349,Produto_349,Eletronicos,Duarte,203.88,306.92
-350,Produto_350,Eletronicos,Cardoso Azevedo - ME,31.23,47.65
-351,Produto_351,Eletronicos,Ferreira,174.03,276.49
-352,Produto_352,Eletronicos,da Paz Pinto - ME,450.82,803.59
-353,Produto_353,Esporte,Pinto,66.03,84.0
-354,Produto_354,Moda,Rios,320.16,608.71
-355,Produto_355,Esporte,Farias - ME,61.2,105.72
-356,Produto_356,Moda,Cavalcanti S/A,249.41,425.45
-357,Produto_357,Casa,Nunes,29.76,48.57
-358,Produto_358,Moda,Moraes,493.01,675.59
-359,Produto_359,Casa,Campos Câmara e Filhos,159.69,210.11
-360,Produto_360,Informatica,Freitas da Paz Ltda.,284.54,465.87
-361,Produto_361,Informatica,Pereira Vasconcelos S/A,362.7,472.51
-362,Produto_362,Moda,Teixeira Gonçalves e Filhos,278.94,421.99
-363,Produto_363,Esporte,Campos,210.48,266.26
-364,Produto_364,Eletronicos,Camargo,268.98,431.32
-365,Produto_365,Informatica,Farias,457.84,870.03
-366,Produto_366,Informatica,Costa Novais - EI,25.92,51.07
-367,Produto_367,Casa,Macedo,405.5,533.42
-368,Produto_368,Casa,Peixoto - EI,241.77,320.68
-369,Produto_369,Informatica,Viana Ltda.,149.77,218.21
-370,Produto_370,Eletronicos,da Conceição - ME,109.06,173.38
-371,Produto_371,Informatica,da Cunha,142.65,269.9
-372,Produto_372,Casa,Dias,397.18,743.31
-373,Produto_373,Casa,Cavalcante,151.19,197.93
-374,Produto_374,Informatica,Novaes da Cruz - EI,393.11,617.31
-375,Produto_375,Moda,Moreira Ltda.,207.69,304.5
-376,Produto_376,Esporte,Pastor,40.3,72.14
-377,Produto_377,Esporte,Ferreira Ltda.,155.04,231.12
-378,Produto_378,Moda,Ferreira,327.76,511.93
-379,Produto_379,Moda,Rocha - EI,130.75,185.48
-380,Produto_380,Moda,da Paz - ME,355.92,465.33
-381,Produto_381,Eletronicos,da Rosa,51.03,93.09
-382,Produto_382,Moda,Casa Grande - EI,108.45,176.94
-383,Produto_383,Casa,Correia Souza - ME,179.77,359.42
-384,Produto_384,Casa,Andrade,343.96,513.12
-385,Produto_385,Casa,Leão,184.13,361.44
-386,Produto_386,Moda,Gonçalves,220.76,317.72
-387,Produto_387,Moda,Peixoto da Rocha - ME,209.55,377.47
-388,Produto_388,Casa,Pimenta,408.37,681.84
-389,Produto_389,Informatica,Costa,372.49,616.17
-390,Produto_390,Eletronicos,Azevedo Cassiano Ltda.,218.47,336.7
-391,Produto_391,Casa,Pires,31.7,41.43
-392,Produto_392,Esporte,Pacheco e Filhos,223.56,321.71
-393,Produto_393,Casa,Cardoso,123.2,244.1
-394,Produto_394,Eletronicos,Lopes S/A,66.55,106.33
-395,Produto_395,Casa,Oliveira,282.99,500.59
-396,Produto_396,Esporte,Siqueira,325.27,491.18
-397,Produto_397,Esporte,Viana,12.82,23.84
-398,Produto_398,Eletronicos,Costa - ME,198.53,301.83
-399,Produto_399,Esporte,Nunes,205.93,266.69
-400,Produto_400,Casa,da Mata e Filhos,44.44,81.81
-401,Produto_401,Casa,Vasconcelos - ME,349.06,472.94
-402,Produto_402,Informatica,Porto,395.27,548.91
-403,Produto_403,Informatica,Sampaio,274.04,496.62
-404,Produto_404,Casa,Freitas,220.15,293.7
-405,Produto_405,Moda,Abreu,174.84,267.69
-406,Produto_406,Moda,Sá,333.96,460.47
-407,Produto_407,Eletronicos,Pimenta e Filhos,46.63,64.1
-408,Produto_408,Informatica,Vieira,126.18,196.86
-409,Produto_409,Esporte,Nogueira,443.54,642.63
-410,Produto_410,Informatica,Vieira,283.5,436.06
-411,Produto_411,Moda,Viana,400.77,695.12
-412,Produto_412,Esporte,Oliveira,415.27,823.26
-413,Produto_413,Moda,Pimenta,189.13,338.6
-414,Produto_414,Casa,Lima,404.05,671.51
-415,Produto_415,Casa,Vasconcelos Teixeira e Filhos,111.13,189.3
-416,Produto_416,Esporte,Siqueira S.A.,458.95,702.83
-417,Produto_417,Informatica,Jesus,415.03,824.89
-418,Produto_418,Eletronicos,da Luz - ME,39.29,55.48
-419,Produto_419,Eletronicos,Sousa,242.38,341.4
-420,Produto_420,Esporte,Almeida da Mata Ltda.,394.19,541.04
-421,Produto_421,Eletronicos,Nunes Correia Ltda.,290.55,379.62
-422,Produto_422,Esporte,Alves Ltda.,200.78,303.68
-423,Produto_423,Casa,da Costa Ferreira Ltda.,215.65,387.43
-424,Produto_424,Informatica,Nascimento da Rosa - ME,188.2,230.6
-425,Produto_425,Casa,Nascimento da Rocha S.A.,400.6,770.56
-426,Produto_426,Casa,Duarte,96.82,130.09
-427,Produto_427,Informatica,Abreu,430.11,684.08
-428,Produto_428,Casa,Fogaça,495.23,687.16
-429,Produto_429,Esporte,da Cruz - EI,125.35,231.18
-430,Produto_430,Esporte,Pastor,146.57,196.83
-431,Produto_431,Informatica,Cassiano,131.23,192.24
-432,Produto_432,Esporte,da Costa,269.4,449.56
-433,Produto_433,Casa,Pacheco e Filhos,326.74,629.4
-434,Produto_434,Casa,Cassiano Macedo e Filhos,483.43,812.09
-435,Produto_435,Moda,Albuquerque Pires - ME,404.93,700.91
-436,Produto_436,Esporte,Barros da Rosa - EI,181.86,289.76
-437,Produto_437,Eletronicos,Guerra,284.59,481.91
-438,Produto_438,Casa,Alves,303.3,565.27
-439,Produto_439,Esporte,Cavalcanti,259.13,367.53
-440,Produto_440,Eletronicos,Montenegro Castro S/A,362.85,587.42
-441,Produto_441,Informatica,Souza S.A.,490.32,648.93
-442,Produto_442,Eletronicos,Pereira e Filhos,280.41,433.09
-443,Produto_443,Casa,Cunha Farias - ME,210.92,367.51
-444,Produto_444,Eletronicos,Moraes - EI,51.08,62.69
-445,Produto_445,Informatica,Sousa Pimenta Ltda.,385.28,537.4
-446,Produto_446,Informatica,Novais S/A,139.79,237.23
-447,Produto_447,Moda,Rios,236.86,421.1
-448,Produto_448,Casa,Caldeira e Filhos,234.97,360.43
-449,Produto_449,Informatica,Moura - ME,169.2,223.7
-450,Produto_450,Casa,Oliveira Macedo - EI,14.26,24.28
-451,Produto_451,Esporte,Monteiro - ME,419.02,726.62
-452,Produto_452,Moda,Aparecida,231.58,372.2
-453,Produto_453,Informatica,Oliveira Moraes e Filhos,60.0,90.04
-454,Produto_454,Casa,Oliveira e Filhos,127.27,201.39
-455,Produto_455,Informatica,Alves,137.89,189.77
-456,Produto_456,Casa,Santos - EI,313.94,525.37
-457,Produto_457,Esporte,Ferreira Pires e Filhos,29.07,36.56
-458,Produto_458,Moda,Jesus - EI,252.7,318.96
-459,Produto_459,Moda,Azevedo,55.23,88.77
-460,Produto_460,Moda,Rezende,310.91,428.34
-461,Produto_461,Casa,Moraes,385.33,709.38
-462,Produto_462,Esporte,Sousa,327.7,647.76
-463,Produto_463,Moda,Fernandes Marques Ltda.,384.03,622.05
-464,Produto_464,Esporte,Aparecida,245.91,329.58
-465,Produto_465,Eletronicos,Mendonça,201.09,274.59
-466,Produto_466,Informatica,Mendonça e Filhos,154.5,240.27
-467,Produto_467,Eletronicos,Pastor S.A.,361.27,478.25
-468,Produto_468,Informatica,Ferreira Guerra S.A.,445.37,721.45
-469,Produto_469,Moda,Moura S.A.,117.94,223.35
-470,Produto_470,Esporte,Vargas,20.14,38.97
-471,Produto_471,Informatica,Fonseca,73.67,106.52
-472,Produto_472,Eletronicos,Sales S/A,301.72,566.46
-473,Produto_473,Eletronicos,Sá S/A,95.97,115.32
-474,Produto_474,Eletronicos,Caldeira,403.31,575.53
-475,Produto_475,Informatica,Leão Rezende S/A,139.64,257.74
-476,Produto_476,Informatica,Oliveira,218.07,430.69
-477,Produto_477,Eletronicos,Siqueira - ME,260.65,498.36
-478,Produto_478,Casa,Viana,279.74,399.33
-479,Produto_479,Casa,Azevedo Viana - EI,474.58,667.95
-480,Produto_480,Moda,Albuquerque,328.34,499.58
-481,Produto_481,Casa,Farias,132.42,190.76
-482,Produto_482,Casa,da Rocha S/A,168.6,302.07
-483,Produto_483,Informatica,da Rocha,322.53,488.16
-484,Produto_484,Informatica,Ribeiro,286.15,434.81
-485,Produto_485,Informatica,Fernandes Nunes Ltda.,156.9,278.84
-486,Produto_486,Informatica,da Mata Vargas Ltda.,473.86,754.92
-487,Produto_487,Eletronicos,Moraes Martins Ltda.,49.23,89.7
-488,Produto_488,Esporte,Vargas e Filhos,410.47,729.97
-489,Produto_489,Moda,Sousa S.A.,381.55,679.21
-490,Produto_490,Moda,Silva,122.79,178.19
-491,Produto_491,Eletronicos,Correia S.A.,455.57,687.6
-492,Produto_492,Moda,da Mota da Cunha S/A,242.59,475.7
-493,Produto_493,Informatica,Pimenta,23.28,31.64
-494,Produto_494,Eletronicos,Cunha - ME,255.3,308.82
-495,Produto_495,Esporte,Montenegro - EI,324.97,539.14
-496,Produto_496,Eletronicos,Porto Correia - EI,129.74,199.65
-497,Produto_497,Esporte,Melo S/A,491.99,626.24
-498,Produto_498,Esporte,Sales Martins S/A,245.63,401.76
-499,Produto_499,Eletronicos,da Mata S.A.,370.31,640.43
-500,Produto_500,Moda,da Mota,17.13,26.89
+1,Produto_1,Moda,Campos,89.56,162.14
+2,Produto_2,Moda,Pinto,387.92,698.75
+3,Produto_3,Moda,Cassiano S.A.,259.71,413.17
+4,Produto_4,Esporte,Melo Rocha - EI,351.26,604.42
+5,Produto_5,Eletronicos,Andrade e Filhos,370.48,516.41
+6,Produto_6,Eletronicos,Dias,461.52,687.26
+7,Produto_7,Moda,Silva,351.76,603.71
+8,Produto_8,Casa,Araújo,306.66,599.65
+9,Produto_9,Casa,Martins,134.6,226.36
+10,Produto_10,Esporte,Pacheco,16.05,29.16
+11,Produto_11,Eletronicos,Santos,204.86,341.9
+12,Produto_12,Esporte,Barbosa,264.08,356.79
+13,Produto_13,Moda,Leão,91.25,140.66
+14,Produto_14,Esporte,Dias,255.32,415.29
+15,Produto_15,Eletronicos,Costa,297.18,531.1
+16,Produto_16,Moda,Nogueira - EI,63.54,105.35
+17,Produto_17,Casa,Machado e Filhos,408.97,578.78
+18,Produto_18,Moda,Martins Moraes S/A,465.71,707.12
+19,Produto_19,Esporte,Pacheco,13.15,17.55
+20,Produto_20,Esporte,Duarte - ME,10.77,13.53
+21,Produto_21,Esporte,Novais - EI,267.23,460.6
+22,Produto_22,Casa,Freitas,93.61,140.39
+23,Produto_23,Eletronicos,Cavalcante,107.03,144.02
+24,Produto_24,Casa,Novaes,230.82,427.36
+25,Produto_25,Casa,Montenegro da Luz - EI,108.46,195.22
+26,Produto_26,Esporte,Jesus,137.08,263.44
+27,Produto_27,Eletronicos,Moura Almeida S.A.,225.96,436.19
+28,Produto_28,Moda,Rodrigues - ME,435.5,580.48
+29,Produto_29,Eletronicos,Barros,52.0,67.59
+30,Produto_30,Esporte,da Costa Pastor - ME,177.65,296.41
+31,Produto_31,Eletronicos,Cirino S/A,247.75,448.04
+32,Produto_32,Eletronicos,Pires Ltda.,39.92,71.91
+33,Produto_33,Eletronicos,Novaes - EI,336.01,615.36
+34,Produto_34,Eletronicos,Cassiano - EI,57.45,92.95
+35,Produto_35,Moda,Rezende,194.08,313.64
+36,Produto_36,Moda,Moraes S.A.,466.74,736.79
+37,Produto_37,Moda,Rezende - ME,306.14,449.79
+38,Produto_38,Moda,Guerra - ME,499.73,926.24
+39,Produto_39,Eletronicos,Campos S/A,335.89,504.76
+40,Produto_40,Eletronicos,Pastor,487.9,926.26
+41,Produto_41,Esporte,Câmara Mendes S.A.,11.51,21.83
+42,Produto_42,Casa,Gomes Novaes - EI,365.36,697.98
+43,Produto_43,Informatica,Câmara da Mota e Filhos,22.58,29.32
+44,Produto_44,Casa,Ribeiro,146.94,258.53
+45,Produto_45,Esporte,Pereira,190.53,322.89
+46,Produto_46,Eletronicos,Aparecida,262.31,453.32
+47,Produto_47,Moda,Silva Dias S/A,493.23,969.71
+48,Produto_48,Eletronicos,Mendonça,18.15,27.01
+49,Produto_49,Esporte,Marques,485.1,867.67
+50,Produto_50,Informatica,Moreira,124.44,197.56
+51,Produto_51,Esporte,Correia Fernandes Ltda.,399.04,590.05
+52,Produto_52,Eletronicos,Albuquerque,493.57,930.72
+53,Produto_53,Casa,Macedo,369.8,530.7
+54,Produto_54,Informatica,Sousa Brito S.A.,358.85,680.34
+55,Produto_55,Eletronicos,Brito Duarte Ltda.,394.58,699.72
+56,Produto_56,Moda,Pires,72.65,133.49
+57,Produto_57,Esporte,Rodrigues Ltda.,417.85,834.46
+58,Produto_58,Eletronicos,Rocha,92.35,143.79
+59,Produto_59,Casa,Fogaça S.A.,246.26,402.03
+60,Produto_60,Eletronicos,Moura - ME,113.7,204.96
+61,Produto_61,Eletronicos,Moreira da Mota e Filhos,61.68,123.03
+62,Produto_62,Esporte,da Luz,88.52,172.01
+63,Produto_63,Moda,das Neves Ltda.,385.49,530.55
+64,Produto_64,Eletronicos,Caldeira Barbosa Ltda.,336.31,659.57
+65,Produto_65,Esporte,das Neves - ME,336.08,651.39
+66,Produto_66,Casa,Rezende e Filhos,54.32,95.25
+67,Produto_67,Informatica,Sá S.A.,466.57,845.92
+68,Produto_68,Esporte,Ramos Vieira Ltda.,41.69,61.48
+69,Produto_69,Esporte,Costa - ME,330.42,604.03
+70,Produto_70,Eletronicos,Camargo,406.14,560.0
+71,Produto_71,Moda,Pires,152.58,196.69
+72,Produto_72,Eletronicos,Vasconcelos,372.88,727.03
+73,Produto_73,Moda,Souza S/A,290.69,378.46
+74,Produto_74,Eletronicos,Machado,477.49,793.37
+75,Produto_75,Casa,Nascimento,162.29,271.36
+76,Produto_76,Moda,Casa Grande S.A.,425.09,843.33
+77,Produto_77,Casa,Vasconcelos,387.93,713.02
+78,Produto_78,Casa,Fogaça,264.68,445.0
+79,Produto_79,Esporte,Moraes,62.23,75.13
+80,Produto_80,Moda,da Luz,164.8,305.36
+81,Produto_81,Esporte,Melo,420.24,672.33
+82,Produto_82,Eletronicos,Alves,82.24,117.33
+83,Produto_83,Eletronicos,Vargas Lima e Filhos,303.45,439.13
+84,Produto_84,Informatica,da Rosa,143.99,270.43
+85,Produto_85,Esporte,Azevedo - ME,244.36,455.23
+86,Produto_86,Eletronicos,Carvalho Pimenta Ltda.,152.83,301.56
+87,Produto_87,Casa,Cunha,490.76,719.71
+88,Produto_88,Casa,Montenegro,425.55,828.78
+89,Produto_89,Casa,Campos Fogaça - EI,353.2,438.69
+90,Produto_90,Moda,Fonseca,429.82,765.9
+91,Produto_91,Casa,Santos,492.35,850.49
+92,Produto_92,Moda,Peixoto Santos e Filhos,495.62,812.0
+93,Produto_93,Moda,Ribeiro Macedo S.A.,216.99,342.57
+94,Produto_94,Informatica,Moraes - ME,381.28,576.82
+95,Produto_95,Casa,Santos Andrade S.A.,366.11,522.03
+96,Produto_96,Eletronicos,Farias - EI,353.54,579.24
+97,Produto_97,Informatica,Santos,74.14,133.59
+98,Produto_98,Moda,Ramos,434.27,539.93
+99,Produto_99,Casa,da Conceição da Conceição S.A.,234.19,311.7
+100,Produto_100,Casa,Borges,226.52,359.25
+101,Produto_101,Casa,Sousa,112.79,207.93
+102,Produto_102,Informatica,Azevedo,370.31,447.08
+103,Produto_103,Casa,Pires,59.95,109.61
+104,Produto_104,Casa,Nascimento,194.51,386.33
+105,Produto_105,Esporte,Pacheco Lopes - ME,463.73,592.11
+106,Produto_106,Informatica,Martins S.A.,98.02,121.74
+107,Produto_107,Casa,da Rocha,328.55,550.23
+108,Produto_108,Eletronicos,Melo,317.22,483.19
+109,Produto_109,Moda,Gomes,68.21,103.5
+110,Produto_110,Esporte,Siqueira Campos Ltda.,347.11,681.6
+111,Produto_111,Eletronicos,Nogueira,390.17,777.58
+112,Produto_112,Esporte,Rezende,391.09,739.91
+113,Produto_113,Moda,Pires - ME,144.86,249.53
+114,Produto_114,Eletronicos,Sousa,15.69,20.29
+115,Produto_115,Informatica,Lima S/A,249.72,433.27
+116,Produto_116,Informatica,Abreu,120.22,200.7
+117,Produto_117,Eletronicos,Albuquerque,244.95,429.88
+118,Produto_118,Esporte,Cavalcante Barbosa - EI,399.23,536.92
+119,Produto_119,Moda,Guerra - EI,499.98,881.06
+120,Produto_120,Eletronicos,Ramos Ltda.,290.0,371.07
+121,Produto_121,Informatica,da Conceição Ltda.,359.75,679.84
+122,Produto_122,Eletronicos,Rios,100.6,186.14
+123,Produto_123,Informatica,Gomes,202.96,376.28
+124,Produto_124,Informatica,Santos - EI,249.4,402.81
+125,Produto_125,Eletronicos,Novais,274.1,508.47
+126,Produto_126,Eletronicos,Sales Mendonça - ME,379.22,518.0
+127,Produto_127,Casa,Alves,98.53,165.46
+128,Produto_128,Moda,Pastor Silveira S.A.,12.61,19.64
+129,Produto_129,Casa,da Paz,70.29,91.59
+130,Produto_130,Moda,Costa Vargas S/A,329.79,418.92
+131,Produto_131,Eletronicos,Lima Porto Ltda.,427.21,524.62
+132,Produto_132,Informatica,Oliveira e Filhos,258.01,384.65
+133,Produto_133,Eletronicos,Santos,94.09,186.46
+134,Produto_134,Informatica,Camargo Novais S.A.,131.69,162.89
+135,Produto_135,Informatica,Garcia,453.26,650.3
+136,Produto_136,Moda,Marques,228.01,378.87
+137,Produto_137,Moda,Peixoto e Filhos,266.11,529.24
+138,Produto_138,Eletronicos,Leão,307.02,493.83
+139,Produto_139,Eletronicos,Lopes,334.68,413.59
+140,Produto_140,Casa,Abreu S.A.,102.16,147.09
+141,Produto_141,Casa,Souza,479.14,805.78
+142,Produto_142,Informatica,da Costa,299.97,426.53
+143,Produto_143,Moda,Cavalcanti,216.79,355.51
+144,Produto_144,Esporte,Carvalho S.A.,197.07,378.95
+145,Produto_145,Esporte,Rodrigues Sampaio S.A.,233.47,456.62
+146,Produto_146,Casa,Pimenta,470.7,618.78
+147,Produto_147,Casa,Barbosa S.A.,44.57,79.61
+148,Produto_148,Informatica,Lima,360.08,594.46
+149,Produto_149,Casa,Leão Mendonça Ltda.,306.42,470.58
+150,Produto_150,Esporte,Brito - ME,165.02,302.02
+151,Produto_151,Eletronicos,Pimenta,22.7,38.2
+152,Produto_152,Informatica,Duarte S.A.,142.36,231.36
+153,Produto_153,Eletronicos,da Mota,209.32,306.34
+154,Produto_154,Moda,Campos,187.78,275.44
+155,Produto_155,Moda,da Rocha,81.7,150.2
+156,Produto_156,Casa,Pimenta S.A.,14.83,22.27
+157,Produto_157,Eletronicos,da Cruz Vasconcelos Ltda.,195.53,251.06
+158,Produto_158,Moda,Marques Ltda.,96.11,171.33
+159,Produto_159,Eletronicos,Fonseca,298.53,550.92
+160,Produto_160,Moda,das Neves,269.19,473.87
+161,Produto_161,Eletronicos,Garcia Aragão S/A,280.26,472.51
+162,Produto_162,Esporte,da Cruz,93.67,183.33
+163,Produto_163,Informatica,Sá,98.53,181.77
+164,Produto_164,Esporte,Garcia Cunha S/A,280.32,534.18
+165,Produto_165,Eletronicos,Sousa,243.66,317.26
+166,Produto_166,Casa,Pimenta,346.46,613.43
+167,Produto_167,Moda,Fogaça,79.91,132.18
+168,Produto_168,Moda,Porto Cirino - ME,35.9,63.91
+169,Produto_169,Informatica,Garcia,356.68,499.1
+170,Produto_170,Esporte,Borges,214.94,336.65
+171,Produto_171,Informatica,Pereira,493.26,906.99
+172,Produto_172,Informatica,Alves S.A.,150.54,295.37
+173,Produto_173,Casa,Abreu,471.42,898.11
+174,Produto_174,Moda,Souza Farias Ltda.,159.54,300.95
+175,Produto_175,Eletronicos,Siqueira e Filhos,209.19,303.37
+176,Produto_176,Casa,Viana da Mata Ltda.,320.99,404.88
+177,Produto_177,Eletronicos,Novaes,472.98,630.05
+178,Produto_178,Esporte,Mendes,51.45,73.51
+179,Produto_179,Esporte,Cirino Nascimento - EI,406.09,490.78
+180,Produto_180,Casa,Oliveira Abreu Ltda.,341.75,665.03
+181,Produto_181,Informatica,Sá,245.03,394.99
+182,Produto_182,Informatica,da Conceição Azevedo Ltda.,351.96,536.52
+183,Produto_183,Eletronicos,da Mota,103.19,192.46
+184,Produto_184,Moda,Siqueira,359.94,634.24
+185,Produto_185,Informatica,Freitas e Filhos,129.67,232.26
+186,Produto_186,Esporte,da Rocha,345.2,425.94
+187,Produto_187,Informatica,Cassiano Fogaça S/A,482.68,839.68
+188,Produto_188,Moda,da Luz e Filhos,452.86,606.77
+189,Produto_189,Eletronicos,Moura,421.31,678.71
+190,Produto_190,Moda,Pastor,217.13,326.41
+191,Produto_191,Casa,Cunha,485.17,713.38
+192,Produto_192,Eletronicos,Carvalho e Filhos,417.55,785.25
+193,Produto_193,Moda,da Rocha S/A,152.13,241.35
+194,Produto_194,Informatica,da Paz,114.4,204.82
+195,Produto_195,Informatica,Macedo Monteiro e Filhos,202.87,393.25
+196,Produto_196,Esporte,Lima,414.61,509.28
+197,Produto_197,Eletronicos,Moraes S.A.,447.32,840.37
+198,Produto_198,Moda,Sampaio - EI,184.31,311.93
+199,Produto_199,Moda,Montenegro,156.19,200.82
+200,Produto_200,Moda,Araújo S/A,446.2,601.89
+201,Produto_201,Casa,da Cruz,14.34,22.15
+202,Produto_202,Casa,das Neves S.A.,51.52,83.02
+203,Produto_203,Eletronicos,Duarte S/A,211.25,407.82
+204,Produto_204,Casa,da Cunha S.A.,86.26,148.82
+205,Produto_205,Moda,Mendes,240.64,360.83
+206,Produto_206,Moda,Cavalcante,219.89,295.92
+207,Produto_207,Esporte,Albuquerque - ME,63.26,98.11
+208,Produto_208,Esporte,Novaes - ME,89.3,132.43
+209,Produto_209,Casa,Aparecida - EI,12.85,24.5
+210,Produto_210,Casa,Pires,64.23,91.72
+211,Produto_211,Eletronicos,Lima,203.33,365.01
+212,Produto_212,Esporte,Cardoso,88.55,120.36
+213,Produto_213,Eletronicos,Teixeira,480.25,953.94
+214,Produto_214,Casa,Aragão,216.34,354.82
+215,Produto_215,Esporte,Ramos,169.19,306.49
+216,Produto_216,Esporte,Casa Grande - ME,255.91,496.17
+217,Produto_217,Eletronicos,da Cruz Silveira S/A,74.39,146.26
+218,Produto_218,Eletronicos,da Luz,71.8,105.93
+219,Produto_219,Moda,Santos Souza S.A.,386.02,536.26
+220,Produto_220,Eletronicos,Guerra S/A,220.54,369.99
+221,Produto_221,Esporte,Cirino S.A.,222.82,318.98
+222,Produto_222,Informatica,Cirino - EI,50.48,77.9
+223,Produto_223,Casa,Farias,84.72,136.31
+224,Produto_224,Moda,Sampaio,147.76,190.91
+225,Produto_225,Esporte,Rocha Ltda.,497.19,695.01
+226,Produto_226,Eletronicos,Cavalcante da Paz e Filhos,107.22,189.26
+227,Produto_227,Casa,Brito Ltda.,353.56,566.36
+228,Produto_228,Casa,Alves Guerra - ME,102.45,193.01
+229,Produto_229,Eletronicos,Andrade,122.4,159.83
+230,Produto_230,Casa,Dias S/A,144.19,195.2
+231,Produto_231,Eletronicos,Dias,218.89,370.62
+232,Produto_232,Informatica,Almeida Brito - ME,433.53,652.15
+233,Produto_233,Casa,da Cruz,160.16,273.34
+234,Produto_234,Eletronicos,Sousa Moreira S.A.,118.67,182.85
+235,Produto_235,Moda,Carvalho Carvalho Ltda.,259.83,445.63
+236,Produto_236,Moda,Andrade Ltda.,63.93,95.31
+237,Produto_237,Eletronicos,Pastor Cardoso S.A.,358.68,501.28
+238,Produto_238,Moda,Aragão Freitas - ME,99.06,118.91
+239,Produto_239,Informatica,Rezende Alves S/A,113.87,179.65
+240,Produto_240,Esporte,Barbosa S/A,59.37,80.02
+241,Produto_241,Eletronicos,da Cunha Nascimento Ltda.,188.15,271.59
+242,Produto_242,Casa,Câmara Oliveira S/A,337.78,589.89
+243,Produto_243,Moda,da Conceição Ramos S.A.,172.29,308.92
+244,Produto_244,Informatica,Cirino,374.04,625.07
+245,Produto_245,Casa,Camargo,192.08,330.42
+246,Produto_246,Eletronicos,Castro da Cruz e Filhos,296.32,376.26
+247,Produto_247,Eletronicos,Farias,73.94,132.65
+248,Produto_248,Casa,Rocha,30.11,59.46
+249,Produto_249,Eletronicos,Farias,104.53,162.71
+250,Produto_250,Moda,Cunha da Rosa S.A.,46.69,76.44
+251,Produto_251,Casa,da Rosa,157.72,249.1
+252,Produto_252,Casa,Pimenta,271.44,359.1
+253,Produto_253,Moda,Lima,103.94,170.5
+254,Produto_254,Informatica,Cavalcanti Ltda.,446.88,807.73
+255,Produto_255,Esporte,Lima,487.81,934.61
+256,Produto_256,Esporte,da Mata Cavalcanti e Filhos,318.63,412.29
+257,Produto_257,Informatica,Siqueira - EI,43.18,66.29
+258,Produto_258,Moda,da Cruz,397.53,530.13
+259,Produto_259,Eletronicos,Sá,351.39,457.91
+260,Produto_260,Casa,Porto,478.34,597.27
+261,Produto_261,Informatica,Pires,372.95,566.14
+262,Produto_262,Casa,da Mota Ribeiro - EI,436.43,862.92
+263,Produto_263,Informatica,Cavalcanti,224.5,360.87
+264,Produto_264,Moda,da Conceição,391.89,595.94
+265,Produto_265,Informatica,Guerra,111.39,133.99
+266,Produto_266,Informatica,Farias e Filhos,116.73,205.14
+267,Produto_267,Informatica,Gomes Guerra Ltda.,233.17,411.83
+268,Produto_268,Moda,Nunes,136.83,257.51
+269,Produto_269,Casa,da Mata - ME,357.04,586.16
+270,Produto_270,Moda,Castro,119.73,194.78
+271,Produto_271,Moda,Viana,29.15,38.43
+272,Produto_272,Eletronicos,Porto Moraes S/A,464.35,657.68
+273,Produto_273,Casa,Leão,324.78,454.43
+274,Produto_274,Moda,Caldeira,271.95,326.64
+275,Produto_275,Moda,Melo,320.01,632.91
+276,Produto_276,Informatica,Câmara,50.79,89.61
+277,Produto_277,Informatica,Guerra Pacheco e Filhos,139.38,182.15
+278,Produto_278,Eletronicos,Castro,154.5,307.18
+279,Produto_279,Moda,Macedo,413.73,569.05
+280,Produto_280,Informatica,Teixeira,96.6,191.01
+281,Produto_281,Informatica,Lopes,332.09,629.11
+282,Produto_282,Esporte,Rios,62.16,111.68
+283,Produto_283,Informatica,Fernandes Costela - EI,473.37,665.5
+284,Produto_284,Casa,Cardoso,279.93,518.84
+285,Produto_285,Esporte,Souza,168.89,230.22
+286,Produto_286,Esporte,Cassiano da Rocha S.A.,86.26,119.5
+287,Produto_287,Eletronicos,Monteiro,190.63,366.34
+288,Produto_288,Casa,da Rosa Caldeira Ltda.,253.02,396.61
+289,Produto_289,Casa,Barros,102.54,163.29
+290,Produto_290,Casa,Ramos Marques e Filhos,327.31,398.28
+291,Produto_291,Informatica,Costa,443.77,822.75
+292,Produto_292,Esporte,Duarte da Mata S.A.,102.05,134.18
+293,Produto_293,Esporte,Jesus,130.17,250.88
+294,Produto_294,Eletronicos,Montenegro,59.11,95.84
+295,Produto_295,Eletronicos,da Cruz,305.61,459.12
+296,Produto_296,Eletronicos,Jesus S/A,63.92,77.4
+297,Produto_297,Moda,Siqueira,74.77,135.79
+298,Produto_298,Eletronicos,da Rocha Nunes - ME,79.89,135.97
+299,Produto_299,Eletronicos,Pimenta Pereira - EI,398.28,480.93
+300,Produto_300,Eletronicos,Leão S/A,275.76,511.43
+301,Produto_301,Informatica,Câmara,109.14,172.91
+302,Produto_302,Moda,Brito - ME,447.27,828.51
+303,Produto_303,Eletronicos,Sales Martins S/A,172.56,228.4
+304,Produto_304,Informatica,da Cruz S/A,276.33,390.72
+305,Produto_305,Eletronicos,Costela,70.31,130.77
+306,Produto_306,Esporte,Cardoso,276.87,354.96
+307,Produto_307,Eletronicos,Araújo,79.5,153.41
+308,Produto_308,Moda,Sales,121.07,182.61
+309,Produto_309,Esporte,Vasconcelos Vargas S/A,331.13,457.19
+310,Produto_310,Eletronicos,da Mota - EI,346.52,613.99
+311,Produto_311,Casa,Mendes,250.99,500.13
+312,Produto_312,Moda,Novais S.A.,59.85,117.59
+313,Produto_313,Moda,Siqueira,47.38,69.51
+314,Produto_314,Eletronicos,Oliveira,462.43,895.22
+315,Produto_315,Informatica,Campos Cardoso S/A,306.21,411.07
+316,Produto_316,Esporte,Gonçalves,174.07,234.14
+317,Produto_317,Moda,Pastor Vargas Ltda.,83.61,144.96
+318,Produto_318,Eletronicos,Gonçalves,316.13,451.94
+319,Produto_319,Moda,Duarte Ramos Ltda.,142.84,228.46
+320,Produto_320,Eletronicos,Souza Pacheco e Filhos,467.11,863.49
+321,Produto_321,Casa,Gomes Sampaio Ltda.,396.54,749.21
+322,Produto_322,Casa,Sá,391.11,515.2
+323,Produto_323,Esporte,Costela,201.39,357.89
+324,Produto_324,Esporte,Peixoto Caldeira - ME,409.18,528.06
+325,Produto_325,Eletronicos,Souza Pacheco - EI,480.2,683.22
+326,Produto_326,Esporte,Albuquerque,168.3,219.13
+327,Produto_327,Esporte,Gonçalves Oliveira Ltda.,182.78,291.6
+328,Produto_328,Moda,Rios S/A,349.78,535.57
+329,Produto_329,Casa,Ramos Jesus e Filhos,77.73,151.98
+330,Produto_330,Informatica,Silva,197.76,324.22
+331,Produto_331,Casa,Nunes,271.55,441.53
+332,Produto_332,Esporte,Borges,198.47,330.41
+333,Produto_333,Casa,Machado,268.2,488.47
+334,Produto_334,Eletronicos,Jesus e Filhos,354.52,492.13
+335,Produto_335,Moda,Cunha Farias S.A.,109.61,206.12
+336,Produto_336,Eletronicos,Andrade S/A,283.6,557.58
+337,Produto_337,Casa,Caldeira,39.19,57.98
+338,Produto_338,Informatica,Ferreira Viana - EI,154.4,203.08
+339,Produto_339,Casa,Camargo - ME,486.19,938.52
+340,Produto_340,Casa,Nunes Pereira Ltda.,113.26,156.26
+341,Produto_341,Casa,Teixeira S/A,67.45,118.48
+342,Produto_342,Esporte,Câmara da Conceição Ltda.,194.96,238.06
+343,Produto_343,Informatica,Cunha,192.13,338.36
+344,Produto_344,Casa,Rios,46.15,86.3
+345,Produto_345,Eletronicos,Mendes,24.79,36.99
+346,Produto_346,Esporte,Rodrigues da Mota - EI,130.07,157.38
+347,Produto_347,Casa,da Paz S/A,83.36,112.2
+348,Produto_348,Moda,Borges,376.57,662.33
+349,Produto_349,Esporte,Barbosa - ME,240.39,427.42
+350,Produto_350,Moda,Peixoto,392.88,689.97
+351,Produto_351,Eletronicos,Andrade Barbosa Ltda.,64.52,80.52
+352,Produto_352,Casa,Caldeira - ME,306.05,409.76
+353,Produto_353,Esporte,da Paz - EI,15.33,28.61
+354,Produto_354,Informatica,Vargas S/A,281.54,524.68
+355,Produto_355,Esporte,das Neves e Filhos,255.92,452.33
+356,Produto_356,Eletronicos,Andrade Cassiano - EI,466.41,661.12
+357,Produto_357,Casa,Leão,265.54,526.39
+358,Produto_358,Eletronicos,Guerra - EI,374.14,568.81
+359,Produto_359,Informatica,Souza S/A,117.26,157.94
+360,Produto_360,Esporte,da Cruz Ltda.,306.49,386.72
+361,Produto_361,Esporte,Campos Vargas S.A.,243.93,420.09
+362,Produto_362,Moda,Montenegro,415.35,553.19
+363,Produto_363,Eletronicos,da Rosa,326.86,443.15
+364,Produto_364,Moda,Cassiano,61.16,91.14
+365,Produto_365,Informatica,Costela Ltda.,23.74,33.85
+366,Produto_366,Eletronicos,Barbosa Lima S/A,62.17,85.14
+367,Produto_367,Informatica,Nunes,380.7,550.99
+368,Produto_368,Casa,Mendonça - EI,108.85,211.53
+369,Produto_369,Informatica,Costela - EI,141.89,281.13
+370,Produto_370,Esporte,Araújo,31.99,63.63
+371,Produto_371,Moda,Duarte - ME,32.38,47.0
+372,Produto_372,Moda,Sampaio S/A,14.15,21.02
+373,Produto_373,Moda,Camargo,479.78,767.73
+374,Produto_374,Casa,Carvalho Viana e Filhos,378.4,673.76
+375,Produto_375,Esporte,Pacheco e Filhos,354.3,452.76
+376,Produto_376,Informatica,Almeida,449.29,720.15
+377,Produto_377,Informatica,da Rosa Martins e Filhos,405.67,535.54
+378,Produto_378,Eletronicos,Castro - EI,400.07,632.74
+379,Produto_379,Esporte,da Rocha S/A,152.16,201.04
+380,Produto_380,Casa,Cardoso - EI,48.59,82.64
+381,Produto_381,Casa,Pires,443.36,818.43
+382,Produto_382,Informatica,Dias,386.72,513.89
+383,Produto_383,Informatica,Mendonça Sampaio S/A,262.99,468.9
+384,Produto_384,Casa,Lopes Melo - EI,465.81,686.2
+385,Produto_385,Esporte,Mendonça,176.12,262.11
+386,Produto_386,Esporte,da Rocha,29.61,52.42
+387,Produto_387,Informatica,Correia,127.16,254.02
+388,Produto_388,Esporte,da Costa - EI,46.75,61.8
+389,Produto_389,Moda,Andrade e Filhos,57.73,69.97
+390,Produto_390,Eletronicos,da Rosa,278.1,549.29
+391,Produto_391,Casa,Ribeiro - ME,254.47,397.95
+392,Produto_392,Moda,Viana - EI,467.69,621.64
+393,Produto_393,Eletronicos,Cavalcante,292.49,433.67
+394,Produto_394,Moda,Ramos Cassiano S/A,97.8,177.76
+395,Produto_395,Esporte,da Paz,493.21,977.93
+396,Produto_396,Eletronicos,Barbosa e Filhos,328.64,431.29
+397,Produto_397,Moda,Barros Farias S.A.,486.12,773.23
+398,Produto_398,Informatica,Aragão,430.91,655.31
+399,Produto_399,Moda,Peixoto,459.4,598.68
+400,Produto_400,Moda,Ribeiro,261.11,443.81
+401,Produto_401,Informatica,Gomes Azevedo - ME,193.1,337.11
+402,Produto_402,Eletronicos,Ferreira,230.55,438.49
+403,Produto_403,Casa,Cavalcante,314.1,538.71
+404,Produto_404,Casa,Cavalcanti,352.88,581.77
+405,Produto_405,Casa,Sousa,428.0,613.12
+406,Produto_406,Casa,Barbosa,289.37,544.9
+407,Produto_407,Eletronicos,Carvalho e Filhos,200.23,314.33
+408,Produto_408,Informatica,da Paz,180.98,285.01
+409,Produto_409,Eletronicos,Silveira,451.06,709.01
+410,Produto_410,Esporte,Santos - ME,98.33,126.52
+411,Produto_411,Moda,Moreira,386.43,525.38
+412,Produto_412,Informatica,Lima,41.59,61.3
+413,Produto_413,Esporte,Pereira,248.28,437.43
+414,Produto_414,Informatica,Montenegro,66.02,103.23
+415,Produto_415,Casa,Araújo Alves Ltda.,86.31,136.02
+416,Produto_416,Informatica,Pastor e Filhos,166.89,204.45
+417,Produto_417,Moda,Lopes,389.36,486.67
+418,Produto_418,Casa,Ferreira,396.88,786.95
+419,Produto_419,Esporte,Costela,36.5,69.15
+420,Produto_420,Eletronicos,Fonseca,142.23,243.01
+421,Produto_421,Eletronicos,Casa Grande,79.45,112.75
+422,Produto_422,Esporte,Machado Porto e Filhos,156.19,276.42
+423,Produto_423,Moda,Marques S.A.,267.14,463.68
+424,Produto_424,Esporte,Guerra,100.2,124.55
+425,Produto_425,Casa,Teixeira Rezende Ltda.,177.59,320.11
+426,Produto_426,Esporte,Fonseca,107.32,209.66
+427,Produto_427,Casa,da Luz - ME,242.99,425.49
+428,Produto_428,Informatica,Melo S/A,483.14,748.59
+429,Produto_429,Informatica,Barros Ltda.,200.68,242.41
+430,Produto_430,Informatica,Camargo,107.29,190.78
+431,Produto_431,Moda,Abreu Garcia - EI,312.09,455.33
+432,Produto_432,Casa,Cirino,16.95,32.5
+433,Produto_433,Esporte,Aparecida,254.73,370.15
+434,Produto_434,Esporte,Vasconcelos,138.77,246.71
+435,Produto_435,Esporte,Abreu S/A,472.23,890.54
+436,Produto_436,Eletronicos,Jesus,323.07,537.17
+437,Produto_437,Esporte,Rocha Ltda.,117.13,232.3
+438,Produto_438,Informatica,Mendonça S.A.,351.26,639.12
+439,Produto_439,Casa,Abreu Melo - ME,195.0,288.3
+440,Produto_440,Eletronicos,Correia Montenegro e Filhos,486.15,807.72
+441,Produto_441,Moda,Campos Ltda.,191.43,285.43
+442,Produto_442,Eletronicos,Carvalho da Conceição S.A.,449.36,719.73
+443,Produto_443,Esporte,Cirino Cavalcanti - EI,352.67,606.29
+444,Produto_444,Informatica,da Paz Albuquerque - EI,212.89,315.37
+445,Produto_445,Moda,Melo,218.67,432.8
+446,Produto_446,Esporte,Cassiano,65.56,87.89
+447,Produto_447,Casa,Fogaça Pereira - EI,192.83,316.67
+448,Produto_448,Esporte,Andrade,275.95,415.37
+449,Produto_449,Eletronicos,da Mata S/A,320.71,564.99
+450,Produto_450,Eletronicos,Silveira - EI,497.73,918.19
+451,Produto_451,Esporte,Machado,53.92,65.41
+452,Produto_452,Informatica,da Conceição Ltda.,60.8,109.44
+453,Produto_453,Esporte,Santos S/A,464.34,594.24
+454,Produto_454,Moda,Ferreira Rios S/A,256.65,473.44
+455,Produto_455,Esporte,Correia,427.34,585.24
+456,Produto_456,Esporte,Vasconcelos,280.28,362.01
+457,Produto_457,Esporte,Casa Grande,475.77,704.37
+458,Produto_458,Esporte,Vargas Ramos - EI,212.34,394.17
+459,Produto_459,Casa,Abreu Vieira - ME,13.73,20.59
+460,Produto_460,Moda,Campos,258.7,365.82
+461,Produto_461,Esporte,Mendonça,160.62,308.73
+462,Produto_462,Esporte,Peixoto - ME,339.92,409.03
+463,Produto_463,Moda,Alves Cardoso - EI,26.01,31.76
+464,Produto_464,Informatica,Barbosa S/A,421.98,681.57
+465,Produto_465,Informatica,Caldeira,165.56,221.24
+466,Produto_466,Esporte,Silva,496.49,691.84
+467,Produto_467,Eletronicos,da Cruz,104.4,179.1
+468,Produto_468,Casa,Barbosa,402.65,669.32
+469,Produto_469,Casa,Teixeira,470.3,711.25
+470,Produto_470,Casa,Viana Teixeira - EI,207.53,301.85
+471,Produto_471,Casa,Rezende Ltda.,224.33,287.07
+472,Produto_472,Esporte,Melo,257.09,438.38
+473,Produto_473,Moda,Marques,423.09,720.04
+474,Produto_474,Moda,Siqueira,420.3,557.84
+475,Produto_475,Esporte,Novaes Andrade S.A.,109.84,140.0
+476,Produto_476,Casa,Ramos - EI,15.65,28.42
+477,Produto_477,Eletronicos,Almeida Gomes S.A.,23.63,41.73
+478,Produto_478,Casa,Monteiro,290.18,354.09
+479,Produto_479,Moda,Rocha S.A.,491.87,839.9
+480,Produto_480,Casa,Novais,101.41,174.63
+481,Produto_481,Casa,Rios S.A.,155.49,253.19
+482,Produto_482,Esporte,Câmara e Filhos,365.89,675.32
+483,Produto_483,Moda,da Cunha,387.49,669.35
+484,Produto_484,Eletronicos,Silveira Guerra - EI,50.65,66.61
+485,Produto_485,Eletronicos,Dias Ltda.,322.81,536.99
+486,Produto_486,Eletronicos,Ferreira,64.36,124.97
+487,Produto_487,Casa,Viana,62.47,89.08
+488,Produto_488,Moda,Pastor,55.46,88.48
+489,Produto_489,Eletronicos,Sampaio,457.23,624.75
+490,Produto_490,Eletronicos,Nogueira Ltda.,250.61,305.13
+491,Produto_491,Casa,Oliveira Sousa S/A,248.39,422.4
+492,Produto_492,Moda,Pereira,346.79,520.26
+493,Produto_493,Casa,Nunes,320.44,500.11
+494,Produto_494,Casa,Sales Ltda.,98.11,118.53
+495,Produto_495,Eletronicos,Cassiano,333.24,568.16
+496,Produto_496,Moda,Albuquerque,67.43,99.41
+497,Produto_497,Informatica,Azevedo,247.12,417.93
+498,Produto_498,Moda,Gomes Ltda.,12.46,20.15
+499,Produto_499,Eletronicos,Marques,464.03,628.42
+500,Produto_500,Casa,da Conceição Machado Ltda.,272.62,440.12

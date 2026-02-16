@@ -6,6 +6,9 @@ import random
 import os
 
 fake = Faker("pt_BR")
+random.seed(42)
+np.random.seed(42)
+Faker.seed(42)
 
 # -------------------------
 # CONFIGURAÇÕES
