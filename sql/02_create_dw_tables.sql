@@ -45,3 +45,24 @@ CREATE TABLE dw.dim_date (
   day_of_week  SMALLINT NOT NULL,         -- 1=Mon ... 7=Sun (ISO)
   is_weekend   BOOLEAN NOT NULL
 );
+
+-- =========================
+-- FACT_SALES
+-- =========================
+
+DROP TABLE IF EXISTS dw.fact_sales;
+
+CREATE TABLE dw.fact_sales (
+  sale_key      SERIAL PRIMARY KEY,
+
+  customer_key  INT REFERENCES dw.dim_customers(customer_key),
+  product_key   INT REFERENCES dw.dim_products(product_key),
+  date_key      INT REFERENCES dw.dim_date(date_key),
+
+  order_id      INT,  -- degenerate dimension
+
+  quantity      INT,
+  unit_price    NUMERIC(10,2),
+  discount      NUMERIC(4,2),
+  total_amount  NUMERIC(12,2)
+);
