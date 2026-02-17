@@ -103,40 +103,49 @@ df_products.to_csv("data/raw/products.csv", index=False)
 price_lookup = df_products.set_index("product_id")["price"].to_dict()
 
 # -------------------------
-# GERAR ORDERS (Order Items)
+# GERAR ORDERS (Order + Items)
 # -------------------------
 
-NUM_ORDERS = 80000
+NUM_ORDERS = 20000
+MAX_ITEMS_PER_ORDER = 5
 
 orders = []
+current_sale_id = 1
 
-for i in range(1, NUM_ORDERS + 1):
+for order_id in range(1, NUM_ORDERS + 1):
 
     customer_id = random.randint(1, NUM_CUSTOMERS)
-    product_id = random.randint(1, NUM_PRODUCTS)
-
     order_date = start_date + timedelta(days=random.randint(0, date_range_days))
 
-    quantity = random.randint(1, 5)
+    num_items = random.randint(1, MAX_ITEMS_PER_ORDER)
 
-    unit_price = price_lookup[product_id]
+    for _ in range(num_items):
 
-    discount = round(random.uniform(0, 0.3), 2)
+        product_id = random.randint(1, NUM_PRODUCTS)
+        quantity = random.randint(1, 5)
 
-    total = round(quantity * unit_price * (1 - discount), 2)
+        unit_price = price_lookup[product_id]
+        discount = round(random.uniform(0, 0.3), 2)
 
-    orders.append([
-        i,
-        order_date.date(),
-        customer_id,
-        product_id,
-        quantity,
-        unit_price,
-        discount,
-        total
-    ])
+        total = round(quantity * unit_price * (1 - discount), 2)
+
+        orders.append([
+            current_sale_id,
+            order_id,
+            order_date.date(),
+            customer_id,
+            product_id,
+            quantity,
+            unit_price,
+            discount,
+            total
+        ])
+
+        current_sale_id += 1
+
 
 df_orders = pd.DataFrame(orders, columns=[
+    "sale_id",
     "order_id",
     "order_date",
     "customer_id",
@@ -149,5 +158,4 @@ df_orders = pd.DataFrame(orders, columns=[
 
 df_orders.to_csv("data/raw/orders.csv", index=False)
 
-print("Customers e Products gerados com sucesso.")
-print("Orders gerados com sucesso.")
+print("Orders gerados com múltiplos itens por pedido.")

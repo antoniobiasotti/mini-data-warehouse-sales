@@ -23,12 +23,13 @@ CREATE TABLE staging.products (
 
 DROP TABLE IF EXISTS staging.orders;
 CREATE TABLE staging.orders (
-  order_id       INT,
-  order_date     DATE,
-  customer_id    INT,
-  product_id     INT,
-  quantity       INT,
-  unit_price     NUMERIC(10,2),
-  discount       NUMERIC(4,2),
-  total_amount   NUMERIC(12,2)
+  sale_id       INT,
+  order_id      INT,
+  order_date    DATE,
+  customer_id   INT,
+  product_id    INT,
+  quantity      INT,
+  unit_price    NUMERIC(10,2),
+  discount      NUMERIC(4,2),
+  total_amount  NUMERIC(12,2)
 );
