@@ -13,3 +13,19 @@ CREATE TABLE dw.dim_customers (
   region        TEXT,
   signup_date   DATE
 );
+
+-- =========================
+-- DIM_PRODUCTS
+-- =========================
+
+DROP TABLE IF EXISTS dw.dim_products;
+
+CREATE TABLE dw.dim_products (
+  product_key   SERIAL PRIMARY KEY,
+  product_id    INT,
+  product_name  TEXT,
+  category      TEXT,
+  brand         TEXT,
+  cost          NUMERIC(10,2),
+  price         NUMERIC(10,2)
+);
