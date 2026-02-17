@@ -3,7 +3,6 @@
 -- =========================
 
 DROP TABLE IF EXISTS dw.dim_customers;
-
 CREATE TABLE dw.dim_customers (
   customer_key  SERIAL PRIMARY KEY,
   customer_id   INT,
@@ -19,7 +18,6 @@ CREATE TABLE dw.dim_customers (
 -- =========================
 
 DROP TABLE IF EXISTS dw.dim_products;
-
 CREATE TABLE dw.dim_products (
   product_key   SERIAL PRIMARY KEY,
   product_id    INT,
@@ -28,4 +26,22 @@ CREATE TABLE dw.dim_products (
   brand         TEXT,
   cost          NUMERIC(10,2),
   price         NUMERIC(10,2)
+);
+
+-- =========================
+-- DIM_DATE
+-- =========================
+
+DROP TABLE IF EXISTS dw.dim_date;
+
+CREATE TABLE dw.dim_date (
+  date_key     INT PRIMARY KEY,          -- formato YYYYMMDD (ex: 20240115)
+  full_date    DATE NOT NULL,
+  day          SMALLINT NOT NULL,
+  month        SMALLINT NOT NULL,
+  month_name   TEXT NOT NULL,
+  quarter      SMALLINT NOT NULL,
+  year         SMALLINT NOT NULL,
+  day_of_week  SMALLINT NOT NULL,         -- 1=Mon ... 7=Sun (ISO)
+  is_weekend   BOOLEAN NOT NULL
 );
