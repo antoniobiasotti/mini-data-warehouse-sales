@@ -1,0 +1,47 @@
+Table dim_customers {
+  customer_key int [pk]
+  customer_id int
+  customer_name varchar
+  city varchar
+  state varchar
+  region varchar
+  signup_date date
+}
+
+Table dim_products {
+  product_key int [pk]
+  product_id int
+  product_name varchar
+  category varchar
+  brand varchar
+  cost numeric
+  price numeric
+}
+
+Table dim_date {
+  date_key int [pk]
+  full_date date
+  day int
+  month int
+  month_name varchar
+  quarter int
+  year int
+  day_of_week int
+  is_weekend boolean
+}
+
+Table fact_sales {
+  sale_key int [pk]
+  customer_key int
+  product_key int
+  date_key int
+  order_id int
+  quantity int
+  unit_price numeric
+  discount numeric
+  total_amount numeric
+}
+
+Ref: fact_sales.customer_key > dim_customers.customer_key
+Ref: fact_sales.product_key > dim_products.product_key
+Ref: fact_sales.date_key > dim_date.date_key
