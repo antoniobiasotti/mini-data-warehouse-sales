@@ -5,7 +5,7 @@ Projeto de portfólio para construir um mini **Data Warehouse** em **PostgreSQL*
 ## Objetivos
 - Modelar um cenário de vendas (e-commerce) em **modelo estrela**
 - Criar tabelas dimensionais e tabela fato
-- Desenvolver queries analíticas (JOIN, CTE, Window Functions)
+- Desenvolver queries analíticas (OLAP)
 - Documentar o projeto como em ambiente corporativo
 
 ## Stack
@@ -21,5 +21,11 @@ Projeto de portfólio para construir um mini **Data Warehouse** em **PostgreSQL*
 - `scripts/`: scripts auxiliares (ex: geração de dados)
 - `images/`: diagramas e screenshots
 
-## Status
-🚧 Em desenvolvimento (90-day plan)
+## Diagrama
+![Star Schema](images/star_schema.png)
+
+## Perguntas
+1) Qual é a granularidade da tabela fato?
+2) Por que utilizar Star Schema?
+3) Qual a diferença entre tabela fato e dimensão?
+4)  
