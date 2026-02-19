@@ -1,4 +1,4 @@
-# Mini Data Warehouse - Sales (Star Schema)
+# Mini Data Warehouse de Vendas com PostgreSQL
 
 Projeto de portfólio para construir um mini **Data Warehouse** em **PostgreSQL** usando **dimensional modeling (Star Schema)**.
 
